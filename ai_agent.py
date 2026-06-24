@@ -146,7 +146,7 @@
         "genai.configure(api_key=GOOGLE_API_KEY)\n",
         "\n",
         "# Your WhatsApp-enabled phone number for live support (include country code)\n",
-        "WHATSAPP_CONTACT_NUMBER = \"+1234567890\" # Replace with your actual WhatsApp number\n",
+        "WHATSAPP_CONTACT_NUMBER = \"+2348024541916\" # Replace with your actual WhatsApp number\n",
         "\n",
         "# --- Gemini Model Initialization ---\n",
         "# The system instruction guides the AI's behavior and ensures it refers to a human when needed.\n",
