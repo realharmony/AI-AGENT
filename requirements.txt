@@ -1,0 +1,5 @@
+google.colab
+google-*
+google-generativeai
+google-api-core
+streamlit
